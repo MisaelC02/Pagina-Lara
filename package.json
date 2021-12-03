@@ -1,0 +1,19 @@
+{
+  "name": "pagina-lara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaelC02/Pagina-Lara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisaelC02/Pagina-Lara/issues"
+  },
+  "homepage": "https://github.com/MisaelC02/Pagina-Lara#readme"
+}
